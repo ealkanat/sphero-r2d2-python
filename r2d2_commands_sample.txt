@@ -1,0 +1,18 @@
+# R2D2 Command Stream Sample
+# Add commands below (one per line)
+# Lines starting with # are comments
+
+# Play a happy sound
+--sound R2_HAPPY
+
+# Move forward 20cm
+--move 20
+
+# Turn 90 degrees right
+--turn 90
+
+# Shake head
+--shake-head
+
+# Play an animation
+--animation EMOTE_EXCITED
