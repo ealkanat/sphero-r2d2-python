@@ -110,4 +110,4 @@ For a complete list of available sounds, animations, and detailed command behavi
 
 ## Credits
 
-This project is built using the excellent [spherov2](https://github.com/artificial-intelligence-class/spherov2) library, which provides the reverse-engineered interface for Sphero droids.
+This project is built using the excellent [spherov2](https://github.com/artificial-intelligence-class/spherov2.py) library, which provides the reverse-engineered interface for Sphero droids.
